@@ -56,7 +56,7 @@ type numtype struct {
 	second []int
 }
 
-func main() {
+func task() {
 	//Hasil Nomor 1
 	var we weType = weType{
 		are: are{
